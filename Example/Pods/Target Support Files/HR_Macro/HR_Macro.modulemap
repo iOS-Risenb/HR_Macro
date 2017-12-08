@@ -1,0 +1,6 @@
+framework module HR_Macro {
+  umbrella header "HR_Macro-umbrella.h"
+
+  export *
+  module * { export * }
+}

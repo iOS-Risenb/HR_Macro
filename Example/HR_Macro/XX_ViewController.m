@@ -8,6 +8,10 @@
 
 #import "XX_ViewController.h"
 
+
+#define SuccessBlock void(^)(void)
+#define FailureBlock void(^)(NSString *errMsg)
+
 @interface XX_ViewController ()
 
 @end
